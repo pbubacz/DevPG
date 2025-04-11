@@ -1,0 +1,9 @@
+streamlit
+unstructured
+unstructured[docx]
+tiktoken
+openai
+azure-core
+azure.ai.documentintelligence
+PyPDF2
+python-dotenv
