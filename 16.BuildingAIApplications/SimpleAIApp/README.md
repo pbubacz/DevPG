@@ -7,6 +7,14 @@ The application enables you to pose questions about documents. Currently, it sup
 
 - **Azure Document Intelligence Deployment**: Acquire the Endpoint URL and keys by following the instructions [here](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/create-document-intelligence-resource?view=doc-intel-4.0.0#get-endpoint-url-and-keys).
 
+## Run the application locally
+To run the application locally, ensure you have the necessary dependencies installed and the environment variables set up.
+In the project directory in terminal, you can run:  
+    
+    ```bash
+    streamlit run .\st-app.py
+    ```
+
 ## Deployment
 Click the button below to deploy the application to Azure.  
 
